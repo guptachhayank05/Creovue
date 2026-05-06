@@ -105,6 +105,3 @@ Focus was given to:
 
 
 ```md
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Job Posting](screenshots/job-post.png)
